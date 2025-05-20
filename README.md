@@ -1,3 +1,14 @@
+### genshin-plugin 版本切换到本仓库
+
+```bash
+# 在你的 genshin-plugin 根目录执行
+git remote set-url origin https://gitee.com/Misaka21011/Yunzai-genshin.git
+git fetch --all
+git reset --hard origin/main
+```
+
+
+
 ### Yunzai Genshin Plugin
 
 | 米游社查询指令 | 说明|
